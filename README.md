@@ -41,3 +41,5 @@ Some current threads:
 #### Philosophy
 
 I believe technology should make dreams more accessible, not gatekeep them. The best work I've done has always been the same move: find the thing that's harder than it should be, and make it easier for the next person.
+
+https://heathdev.me/
