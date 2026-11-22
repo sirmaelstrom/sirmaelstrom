@@ -24,14 +24,14 @@ Twenty lessons and twenty Challenges, each a scored job for my agents with traps
 Its assessment calls my archetype **The Parallel Fleet**, and my favorite story card is **Green Wall**: every check in the pipeline went green on an empty diff, and I wrote the one that doesn't. [Certificate and cards →](https://heathdev.me/#mega)
 
 <p>
-  <img src="images/parallel-fleet.png" width="160" alt="MEGA.dev archetype card art: The Parallel Fleet" />
-  <img src="images/green-wall.png" width="160" alt="MEGA.dev LORE card: Green Wall" />
+  <img src="images/parallel-fleet.png" width="200" alt="MEGA.dev archetype card art: The Parallel Fleet" />
+  <img src="images/green-wall.png" width="200" alt="MEGA.dev LORE card art: Green Wall" />
 </p>
 
 #### What I'm building
 
 - **Observatory:** my personal agent platform. Memory, a knowledge base, a work board and scheduled briefings that every session shares, so momentum stops getting lost between them. Private; glad to demo it.
-- **How I run it:** I talk to one Assistant thread in [T3 Code](https://t3.codes), and it hands the work out across my machines. Each writer gets its own worktree, and models from different vendors review each other's work.
+- **How I run it:** I use [T3 Code](https://t3.codes) extensively across a fleet of three machines, to build software and to manage my home servers and a number of online resources. Each writer gets its own worktree, and models from different vendors review each other's work.
 - **[Family Kitchen](https://github.com/sirmaelstrom/family-coordination-app):** meal plans, recipes and shopping lists my household actually uses.
 - **[workit](https://github.com/sirmaelstrom/workit) (archived):** the Claude Code plugin from an earlier era. Better models and new techniques have since folded most of it into how I work.
 
